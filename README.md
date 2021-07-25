@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shivamguptakrm
 - 👀 I’m interested in Web Development  
 - 🌱 I’m currently learning React Js
-- 💞️ I’m looking to collaborate on open source
+- 💞️ I’m looking for SDE role.
 - 📫 How to reach me :- 7007464887
 
 <!---
